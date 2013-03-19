@@ -1,0 +1,64 @@
+{
+	"items": [
+		{
+			"designator": "C1",
+			"value": "100n",
+			"description": "CAPACITOR, European symbol"
+		},
+		{
+			"designator": "C2",
+			"value": "100u",
+			"description": "POLARIZED CAPACITOR, European symbol"
+		},
+		{
+			"designator": "IC1",
+			"value": "ATtiny2313",
+			"description": "MICROCONTROLLER"
+		},
+		{
+			"designator": "JP1",
+			"value": "",
+			"description": "Header 10"
+		},
+		{
+			"designator": "JP2",
+			"value": "",
+			"description": "Header 10"
+		},
+		{
+			"designator": "JP3",
+			"value": "",
+			"description": "Header 6"
+		},
+		{
+			"designator": "JP4",
+			"value": "",
+			"description": "Header 3"
+		},
+		{
+			"designator": "JP5",
+			"value": "",
+			"description": "Header 3"
+		},
+		{
+			"designator": "R1",
+			"value": "10k",
+			"description": "RESISTOR, European symbol"
+		},
+		{
+			"designator": "S1",
+			"value": "",
+			"description": "Momentary Switch"
+		},
+		{
+			"designator": "SV1",
+			"value": "",
+			"description": "PIN HEADER"
+		},
+		{
+			"designator": "U$2",
+			"value": "8MHz",
+			"description": "Resonator"
+		}
+	]
+}
